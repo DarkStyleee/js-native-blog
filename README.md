@@ -1,7 +1,5 @@
 # js-native-blog
 
-## Information
-
 ### Website
 
 In your browser, open the link:
